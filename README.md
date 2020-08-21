@@ -6,7 +6,7 @@ i write code for fun (occasionally) and hang out on the internet more than i pro
 
 🎮 [wiiu-tcp-rich-presence](https://github.com/dmgrstuff/wiiu-tcp-rich-presence) - Wii U status integration for Discord, written in python over 4 days (it's bad)
 
-🌐 [dmgrstuff.github.io](https://github.com/dmgrstuff/dmgrstuff.github.io) - my GitHub Pages site for self-promotion and hosting random stuff
+🌐 [dmgrstuff.github.io](https://dmgrstuff.github.io) ([repo](https://github.com/dmgrstuff/dmgrstuff.github.io)) - my GitHub Pages site for self-promotion and hosting random stuff
 
 ### 💬 yell at me online
 
