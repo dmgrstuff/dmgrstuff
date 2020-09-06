@@ -14,6 +14,5 @@ i write code for fun (occasionally) and hang out on the internet more than i pro
 
 💬 discord: dmgr_#5616
 
-🐘 mastodon (html): <a rel="me" href="https://mstdn.io/@dmgr_">Mastodon</a>
+🐘 mastodon: [@dmgr_@mstdn.io](https://mstdn.io/@dmgr_)
 
-🐘 mastodon (markdown): [@dmgr_@mstdn.io](https://mstdn.io/@dmgr_)
