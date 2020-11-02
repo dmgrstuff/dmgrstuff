@@ -1,6 +1,6 @@
 ## heya! i'm dmgr_. 👋
 
-i write code for fun (occasionally) and hang out on the internet more than i probably should.
+i write code for fun and hang out on the internet more than i probably should.
 
 ### cool stuff i've written
 
