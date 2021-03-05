@@ -4,7 +4,7 @@ bad habits and bad code are two of the things I do best.
 
 ### things i've written
 
- 🌐 [dmgrstuff.github.io](https://dmgrstuff.github.io) ([repo](https://github.com/dmgrstuff/dmgrstuff.github.io)) - a basic GitHub Pages site for self-promo and hosting stuff
+ 🌐 [dmgr.xyz](https://dmgrstuff.github.io) ([repo](https://github.com/dmgrstuff/dmgrstuff.github.io)) - a basic GitHub Pages site for self-promo and hosting stuff
 
  🦎 [RPCGecko](https://github.com/dmgrstuff/rpcgecko) - a configurable Discord Rich Presence app for the Wii U
 
