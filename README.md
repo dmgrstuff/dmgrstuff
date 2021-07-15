@@ -4,7 +4,7 @@ bad habits and bad code are two of the things I do best.
 
 ### things I've written
 
- 🌐 [dmgr.xyz](https://dmgrstuff.github.io) ([repo](https://github.com/dmgrstuff/dmgrstuff.github.io)) - a basic GitHub Pages site for self-promo and hosting stuff
+ 🌐 [dmgr.xyz](https://dmgr.xyz) ([repo](https://github.com/dmgrstuff/dmgr.xyz)) - a basic GitHub Pages site for self-promo and hosting stuff
 
  🦎 [RPCGecko](https://github.com/dmgrstuff/rpcgecko) - a configurable Discord Rich Presence app for the Wii U
 
@@ -12,7 +12,7 @@ bad habits and bad code are two of the things I do best.
 
  💬 discord: dmgr_#5616
 
- 🐘 mastodon: [@dmgr_@mstdn.io](https://mstdn.io/@dmgr_)
+ 🐘 mastodon: [@dmgr_@koyu.space](https://koyu.space/@dmgr_)
 
  💬 matrix: [@dmgr_:matrix.org](https://matrix.to/#/@dmgr_:matrix.org)
 
