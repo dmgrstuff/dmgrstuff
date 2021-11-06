@@ -1,19 +1,20 @@
-## heya, I'm dmgr_ 👋
+## heya! i'm dmgr_ 🙋‍♀️
 
-bad habits and bad code are two of the things I do best.
+I'm a music student who spends way too much time messing with computers.
 
-### things I've written
+### a couple things i've made...
 
- 🌐 [dmgr.xyz](https://dmgr.xyz) ([repo](https://github.com/dmgrstuff/dmgr.xyz)) - a basic GitHub Pages site for self-promo and hosting stuff
+🌐 [dmgr.xyz](https://dmgr.xyz) - a minimal site for my links and hosting things
 
- 🦎 [RPCGecko](https://github.com/dmgrstuff/rpcgecko) - a configurable Discord Rich Presence app for the Wii U
+🦎 [RPCGecko](https://github.com/dmgrstuff/rpcgecko) - configurable Discord Rich Presence integration for Wii U games
 
-### ways you can talk to me
+🦝 [chillhop-live-rpc](https://github.com/dmgrstuff/chillhop-live-rpc) - a basic implementation of [Chillhop](https://chillhop.com/live)'s livestream API
 
- 💬 discord: dmgr_#5616
+### get in touch!
 
- 🐘 mastodon: [@dmgr_@koyu.space](https://koyu.space/@dmgr_)
+discord: @dmgr_#5616
 
- 💬 matrix: [@dmgr_:matrix.org](https://matrix.to/#/@dmgr_:matrix.org)
+mastodon: [@dmgr_@koyu.space](https://koyu.space/@dmgr_)
 
- 🐦 twitter (inactive): [@dmgr_](https://twitter.com/dmgr_)
+email (relay, may change): 2se89txal@relay.firefox.com
+
