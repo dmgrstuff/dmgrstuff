@@ -1,12 +1,11 @@
-## please do not the evie
+## the evie 🦝
 
-hi, i write bad code
+hi, i write bad code and then don't maintain it :3
 
-she/her
+she/they
 
 ### socials
 
-discord: dmgr_#5616
+discord: @ev.ie
 
 mastodon: [@evie@tech.lgbt](https://tech.lgbt/@evie)
-
